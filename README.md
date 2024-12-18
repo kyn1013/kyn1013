@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/kyn1013?pet-id=657095332082603691"
     width="1000"
-    height="60"
+    height="100"
   />
 </a>
   
