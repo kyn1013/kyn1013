@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/kyn1013"
   width="600"
-  height="200"
+  height="300"
 />
 </a>
