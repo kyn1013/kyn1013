@@ -1,13 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{kyn1013}?pet-id=1" width="1000" height="120"/>
-  <img
-    src="https://render.gitanimals.org/lines/kyn1013?pet-id=657095332082603692"
-    width="1000"
-    height="1000"
-  />
   <img
     src="https://render.gitanimals.org/lines/kyn1013?pet-id=657095332082603691"
     width="600"
-    height="100"
-  />  
+    height="120"
+  />
 </a>
+  
