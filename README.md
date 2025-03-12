@@ -8,8 +8,8 @@
     width="650"
     height="200"
   />
+    ![Chart](https://btc-price-widget.vercel.app/api/charts?coin=btc&theme=galaxy)
   </a>
-![Chart](https://btc-price-widget.vercel.app/api/charts?coin=btc&theme=galaxy)
 </div>
 
 
