@@ -9,6 +9,8 @@
     height="200"
   />
   </a>
+
+![Chart](https://btc-price-widget.vercel.app/api/charts?coin=btc&theme=galaxy)
 </div>
 
 
